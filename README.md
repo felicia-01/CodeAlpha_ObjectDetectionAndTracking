@@ -39,7 +39,7 @@ Learned how to track objects using SORT and record results.
 
 ✅ Annotated output videos, frames, and tracking logs are available in the results/ directory for demonstration purposes.
 
-Below are two sample outputs; additional results can be found in the results/ folder.:
+Below are three sample outputs; additional results can be found in the results/ folder.:
 
 <img width="320" height="240" alt="image" src="https://github.com/user-attachments/assets/ed57f278-f536-4cfe-9966-7e281e65ff72" />
 <img width="319" height="239" alt="image" src="https://github.com/user-attachments/assets/5b27024e-fc32-4ea6-bcf0-75a2f1330295" />
