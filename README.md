@@ -24,11 +24,17 @@ Anaconda            - Virtual environment setup (recommended)
 - [Ultralytics YOLOv11 Release Page](https://github.com/ultralytics/assets/releases)
 
 **Final comments to run the project**
+
 python main.py --task detect --source persons.jpg      -- detection on image
+
 python main.py --task detect --source 0                -- **detection on webcam**
+
 python main.py --task segment --source persons.jpg     -- segmentation
+
 python main.py --task pose --source persons.jpg        -- pose
+
 python main.py --task classify --source car.jpg        -- classification
+
 python main.py --task detect --source video.mp4        -- detection on video
 
 **Learnings & Outcomes**
