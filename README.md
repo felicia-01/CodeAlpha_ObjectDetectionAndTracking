@@ -27,7 +27,7 @@ Anaconda            - Virtual environment setup (recommended)
 
 python main.py --task detect --source persons.jpg      -- detection on image
 
-python main.py --task detect --source 0                -- **detection on webcam**
+**python main.py --task detect --source 0                -- **detection on webcam****
 
 python main.py --task segment --source persons.jpg     -- segmentation
 
@@ -51,12 +51,17 @@ Below are three sample outputs; additional results can be found in the results/ 
 <img width="319" height="239" alt="image" src="https://github.com/user-attachments/assets/5b27024e-fc32-4ea6-bcf0-75a2f1330295" />
 <img width="318" height="240" alt="image" src="https://github.com/user-attachments/assets/7e7c0c3e-c310-4741-8247-8b3ac8f7aa9f" />
 
+
 <img width="320" height="240" alt="image" src="https://github.com/user-attachments/assets/31fb149a-070d-4a37-ad53-9df91ae9a170" />
 <img width="600" height="240" alt="images output" src="https://github.com/user-attachments/assets/d621ba9e-ae53-499f-954f-08727a140e2f" />
 
+
 <img width="400" height="240" alt="commands to run" src="https://github.com/user-attachments/assets/4b7d4634-535c-4b17-8c04-dab987b5f759" />
-<img width="353" height="240" alt="video output" src="https://github.com/user-attachments/assets/ccb4804c-82f3-4039-b268-f9d86fd60374" />
-<img width="360" height="296" alt="files structure" src="https://github.com/user-attachments/assets/907b00cb-22c9-42c9-b047-0de137bd7a9b" />
+<img width="330" height="240" alt="video output" src="https://github.com/user-attachments/assets/ccb4804c-82f3-4039-b268-f9d86fd60374" />
+<img width="350" height="296" alt="files structure" src="https://github.com/user-attachments/assets/907b00cb-22c9-42c9-b047-0de137bd7a9b" />
+
+
+
 
 
 
